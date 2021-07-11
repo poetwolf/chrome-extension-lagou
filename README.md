@@ -1,2 +1,3 @@
 # chrome-extension-lagou
-chrome extension
+
+一个用于拉钩教育的 chrome 插件
